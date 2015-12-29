@@ -8,7 +8,7 @@ var bio = {
 	}
 	"welcomeMessage" : "cqfd",
 	"skills" : ["Data science","Python","Machine learning"],
-	"bioPic" ; "images/photo.jpg"
+	"bioPic" ; "images/fry.jpg"
 }
 
 var education = {
@@ -57,6 +57,7 @@ var projects = {
 	{
 		"title" : "Classification",
 		"dates" : 2015,
-		"description" : "..."
+		"description" : "...",
+		"images" : "../images/fry.jpg"
 	}]
 }
